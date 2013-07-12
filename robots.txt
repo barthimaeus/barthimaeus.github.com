@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://barthimaeus.github.io/sitemap.xml 
+Sitemap: http://blog.heum.de/sitemap.xml 
